@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+.image {
+    opacity: 0.6;
+    position: relative
+}
+.text {
+    position: absolute;
+    color: #FFF;
+    top: 0;
+    left: 33%;
+    font-size: 50px;
+}
+.list {
+    position: absolute;
+    color: #FFF;
+    top: 30%;
+    left: 5%;
+    font-size: 30px;
+}
